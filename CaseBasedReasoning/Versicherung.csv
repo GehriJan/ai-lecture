@@ -1,0 +1,501 @@
+Geschlecht;Familienstand;Alter;Kinder;Bildungsstand;Beruf;Jahresgehalt;Versicherungstarif
+weiblich;geschieden;35;1;Bachelor;angestellt;65112;Tarif B
+maennlich;ledig;27;0;Master;verbeamtet;71322;Tarif B
+maennlich;verheiratet;57;1;Promotion;angestellt;66340;Tarif C
+weiblich;verheiratet;71;0;Hauptschule;im Ruhestand;39500;Tarif D
+weiblich;ledig;64;0;Bachelor;angestellt;59460;Tarif C
+maennlich;verwitwet;47;1;Lehre;arbeitend;24655;Tarif C
+maennlich;verwitwet;42;0;Bachelor;angestellt;62950;Tarif C
+weiblich;ledig;55;0;Abitur;kein;8500;ablehnen
+weiblich;verheiratet;27;0;Master;kein;8800;ablehnen
+maennlich;ledig;16;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;54;0;Master;angestellt;72100;Tarif A
+weiblich;verheiratet;33;0;Lehre;selbstaendig;102700;Tarif B
+weiblich;ledig;9;0;Keine;kein;0;Tarif D
+maennlich;ledig;26;0;Lehre;selbstaendig;108600;Tarif B
+maennlich;geschieden;68;0;Lehre;im Ruhestand;25800;Tarif D
+maennlich;verwitwet;82;1;Bachelor;im Ruhestand;34500;Tarif D
+maennlich;geschieden;63;0;Lehre;angestellt;57655;Tarif C
+weiblich;ledig;15;0;Keine;kein;0;Tarif D
+weiblich;geschieden;49;0;Bachelor;angestellt;61935;Tarif B
+maennlich;verwitwet;43;2;Bachelor;angestellt;103770;Tarif B
+weiblich;verheiratet;51;1;Bachelor;verbeamtet;93840;Tarif A
+weiblich;ledig;9;0;Keine;kein;0;Tarif D
+maennlich;geschieden;37;2;Master;angestellt;92250;Tarif B
+weiblich;verheiratet;20;0;Abitur;kein;9000;ablehnen
+maennlich;ledig;5;0;Keine;kein;0;Tarif D
+weiblich;verwitwet;44;0;Lehre;selbstaendig;62000;Tarif B
+weiblich;ledig;27;0;Promotion;angestellt;21285;Tarif C
+weiblich;verwitwet;51;0;Abitur;angestellt;102070;Tarif A
+weiblich;verwitwet;86;1;Lehre;arbeitend;31180;Tarif C
+maennlich;ledig;32;0;Lehre;kein;9000;ablehnen
+maennlich;ledig;36;1;Lehre;verbeamtet;78820;Tarif B
+maennlich;verheiratet;62;1;Lehre;arbeitend;31070;Tarif C
+maennlich;ledig;16;0;Hauptschule;kein;0;Tarif D
+maennlich;verheiratet;39;1;Lehre;kein;9200;Tarif C
+weiblich;verheiratet;60;0;Bachelor;arbeitend;25400;Tarif C
+maennlich;geschieden;31;0;Master;angestellt;54300;Tarif C
+maennlich;geschieden;56;0;Lehre;kein;9700;ablehnen
+weiblich;ledig;3;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;53;0;Realschule;angestellt;57670;Tarif C
+maennlich;verwitwet;52;0;Lehre;arbeitend;30320;Tarif C
+maennlich;geschieden;50;0;Lehre;kein;8600;ablehnen
+maennlich;verheiratet;53;0;Bachelor;angestellt;76445;Tarif A
+maennlich;verheiratet;36;2;Lehre;selbstaendig;37700;Tarif C
+maennlich;geschieden;65;0;Lehre;kein;8400;ablehnen
+maennlich;ledig;50;0;Hauptschule;verbeamtet;76400;Tarif A
+maennlich;ledig;81;0;Bachelor;im Ruhestand;27800;Tarif D
+maennlich;geschieden;39;2;Bachelor;verbeamtet;77115;Tarif B
+weiblich;verwitwet;36;0;Abitur;arbeitend;24440;Tarif C
+maennlich;verheiratet;39;6;Lehre;angestellt;61880;Tarif C
+weiblich;ledig;18;0;Keine;kein;0;ablehnen
+maennlich;geschieden;42;3;Lehre;kein;9100;ablehnen
+maennlich;geschieden;46;2;Bachelor;angestellt;74920;Tarif C
+maennlich;verwitwet;52;0;Bachelor;angestellt;75680;Tarif A
+maennlich;verwitwet;39;5;Abitur;angestellt;87075;Tarif B
+maennlich;verheiratet;26;0;Bachelor;verbeamtet;121900;Tarif B
+weiblich;verheiratet;62;0;Bachelor;angestellt;90620;Tarif C
+maennlich;geschieden;43;1;Lehre;kein;8900;ablehnen
+weiblich;verheiratet;40;3;Bachelor;angestellt;92200;Tarif C
+maennlich;geschieden;70;1;Bachelor;im Ruhestand;35400;Tarif D
+maennlich;ledig;16;0;Keine;kein;0;Tarif D
+maennlich;ledig;38;0;Bachelor;angestellt;59870;Tarif C
+weiblich;geschieden;39;0;Lehre;angestellt;41065;Tarif C
+maennlich;geschieden;31;1;Master;arbeitend;24870;Tarif C
+maennlich;ledig;67;0;Bachelor;verbeamtet;81490;Tarif C
+weiblich;ledig;21;0;Abitur;selbstaendig;37100;Tarif C
+maennlich;ledig;2;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;33;0;Bachelor;angestellt;77435;Tarif B
+weiblich;verheiratet;27;1;Lehre;arbeitend;30130;Tarif C
+weiblich;verwitwet;85;0;Lehre;im Ruhestand;28300;Tarif D
+weiblich;ledig;25;0;Abitur;kein;8600;ablehnen
+maennlich;verheiratet;24;1;Lehre;selbstaendig;39600;Tarif C
+weiblich;verheiratet;25;0;Bachelor;angestellt;69225;Tarif B
+weiblich;verheiratet;53;0;Bachelor;angestellt;53575;Tarif C
+maennlich;geschieden;40;1;Lehre;kein;9900;ablehnen
+weiblich;verheiratet;47;0;Hauptschule;selbstaendig;72400;Tarif B
+weiblich;verheiratet;57;0;Lehre;arbeitend;24920;Tarif C
+maennlich;ledig;17;0;Keine;kein;0;Tarif D
+maennlich;geschieden;30;1;Bachelor;selbstaendig;103300;Tarif B
+weiblich;verheiratet;52;0;Bachelor;angestellt;68120;Tarif C
+weiblich;verheiratet;41;0;Bachelor;angestellt;72360;Tarif B
+weiblich;verwitwet;35;0;Lehre;kein;9100;ablehnen
+maennlich;verheiratet;54;1;Bachelor;angestellt;98000;Tarif A
+weiblich;verheiratet;53;0;Abitur;angestellt;82470;Tarif A
+weiblich;ledig;27;0;Realschule;kein;9100;ablehnen
+maennlich;verheiratet;41;0;Lehre;kein;9000;ablehnen
+maennlich;ledig;53;0;Bachelor;selbstaendig;106000;Tarif A
+maennlich;ledig;16;0;Hauptschule;kein;0;Tarif D
+weiblich;ledig;26;0;Abitur;arbeitend;25020;Tarif C
+maennlich;ledig;15;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;69;0;Lehre;arbeitend;21105;Tarif C
+maennlich;ledig;13;0;Keine;kein;0;Tarif D
+weiblich;geschieden;65;0;Lehre;arbeitend;29275;Tarif C
+weiblich;verheiratet;58;0;Master;angestellt;96920;Tarif A
+maennlich;verheiratet;43;3;Bachelor;kein;8200;Tarif C
+maennlich;ledig;28;0;Master;angestellt;108720;Tarif B
+weiblich;ledig;16;0;Keine;kein;0;Tarif D
+maennlich;ledig;36;1;Promotion;angestellt;31720;Tarif C
+maennlich;ledig;24;0;Hauptschule;arbeitend;24380;Tarif C
+weiblich;geschieden;62;0;Bachelor;angestellt;82760;Tarif C
+weiblich;ledig;25;0;Bachelor;selbstaendig;104900;Tarif B
+maennlich;ledig;47;0;Lehre;kein;9000;ablehnen
+maennlich;verheiratet;32;0;Bachelor;angestellt;78140;Tarif B
+weiblich;verheiratet;50;0;Bachelor;angestellt;98900;Tarif A
+maennlich;ledig;25;0;Abitur;arbeitend;27200;Tarif C
+maennlich;verheiratet;30;1;Lehre;angestellt;70050;Tarif C
+weiblich;verheiratet;27;2;Realschule;kein;9400;Tarif C
+weiblich;verheiratet;39;2;Lehre;kein;9800;Tarif C
+maennlich;ledig;64;0;Master;angestellt;69320;Tarif C
+weiblich;verheiratet;51;1;Realschule;arbeitend;28580;Tarif C
+weiblich;geschieden;59;0;Realschule;angestellt;61895;Tarif C
+weiblich;geschieden;34;2;Lehre;arbeitend;25280;Tarif C
+weiblich;geschieden;47;0;Lehre;kein;8400;ablehnen
+weiblich;ledig;20;0;Abitur;kein;8900;ablehnen
+weiblich;ledig;26;0;Bachelor;angestellt;51740;Tarif C
+maennlich;verheiratet;40;1;Lehre;verbeamtet;92700;Tarif C
+maennlich;verheiratet;64;0;Lehre;arbeitend;26760;Tarif C
+weiblich;verheiratet;26;0;Master;selbstaendig;42200;Tarif C
+weiblich;verheiratet;19;0;Keine;kein;9500;ablehnen
+maennlich;verheiratet;60;0;Lehre;arbeitend;29200;Tarif C
+maennlich;ledig;42;0;Bachelor;angestellt;86040;Tarif B
+weiblich;verwitwet;41;2;Lehre;arbeitend;27875;Tarif C
+weiblich;verheiratet;43;0;Lehre;arbeitend;28840;Tarif C
+weiblich;ledig;56;0;Bachelor;verbeamtet;94280;Tarif A
+weiblich;ledig;62;0;Realschule;angestellt;79340;Tarif C
+maennlich;ledig;40;0;Master;angestellt;39400;Tarif C
+maennlich;verheiratet;59;1;Bachelor;angestellt;66975;Tarif C
+maennlich;verwitwet;43;1;Master;selbstaendig;55400;Tarif C
+maennlich;ledig;24;0;Abitur;angestellt;92580;Tarif B
+maennlich;ledig;9;0;Keine;kein;0;Tarif D
+weiblich;ledig;65;0;Realschule;selbstaendig;65800;Tarif C
+weiblich;verheiratet;38;0;Abitur;selbstaendig;35200;Tarif C
+weiblich;geschieden;47;0;Lehre;kein;9100;ablehnen
+weiblich;ledig;16;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;73;0;Bachelor;im Ruhestand;25600;Tarif D
+maennlich;geschieden;70;0;Abitur;selbstaendig;44500;Tarif C
+maennlich;geschieden;37;1;Keine;kein;9100;ablehnen
+maennlich;ledig;12;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;42;6;Lehre;arbeitend;26350;Tarif C
+maennlich;ledig;51;0;Bachelor;angestellt;69340;Tarif C
+weiblich;ledig;11;0;Keine;kein;0;Tarif D
+maennlich;ledig;13;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;63;1;Lehre;kein;9600;ablehnen
+maennlich;verwitwet;36;2;Bachelor;angestellt;69480;Tarif B
+maennlich;ledig;10;0;Keine;kein;0;Tarif D
+maennlich;geschieden;47;2;Master;angestellt;87740;Tarif A
+maennlich;ledig;9;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;30;0;Master;verbeamtet;42750;Tarif C
+weiblich;ledig;54;0;Bachelor;selbstaendig;105400;Tarif A
+maennlich;geschieden;44;2;Bachelor;angestellt;93600;Tarif B
+weiblich;verheiratet;59;0;Master;angestellt;104235;Tarif A
+maennlich;geschieden;47;1;Keine;kein;8300;ablehnen
+maennlich;ledig;19;0;Keine;arbeitend;24625;Tarif C
+weiblich;geschieden;43;4;Abitur;kein;8600;ablehnen
+maennlich;geschieden;33;4;Bachelor;angestellt;62490;Tarif C
+maennlich;ledig;88;0;Abitur;im Ruhestand;27000;Tarif D
+maennlich;verwitwet;42;2;Keine;verbeamtet;85030;Tarif B
+weiblich;geschieden;93;0;Master;im Ruhestand;28400;Tarif D
+weiblich;ledig;57;0;Bachelor;angestellt;84815;Tarif A
+weiblich;verheiratet;88;1;Realschule;im Ruhestand;26200;Tarif D
+weiblich;ledig;20;0;Abitur;kein;8700;ablehnen
+weiblich;geschieden;56;0;Master;angestellt;59020;Tarif C
+maennlich;verheiratet;25;0;Abitur;angestellt;63100;Tarif C
+weiblich;verheiratet;77;0;Master;im Ruhestand;31000;Tarif D
+weiblich;verheiratet;47;0;Lehre;kein;8600;ablehnen
+maennlich;verheiratet;56;0;Bachelor;angestellt;81180;Tarif C
+weiblich;ledig;9;0;Keine;kein;0;Tarif D
+maennlich;ledig;16;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;47;1;Bachelor;kein;9600;Tarif C
+weiblich;verheiratet;27;2;Keine;angestellt;79270;Tarif C
+maennlich;verheiratet;74;0;Master;im Ruhestand;37000;Tarif D
+maennlich;verheiratet;36;2;Master;verbeamtet;48820;Tarif C
+weiblich;geschieden;46;0;Bachelor;angestellt;67010;Tarif B
+maennlich;ledig;54;0;Bachelor;angestellt;77680;Tarif A
+maennlich;verwitwet;47;0;Master;angestellt;90510;Tarif A
+maennlich;verheiratet;41;0;Lehre;kein;8800;ablehnen
+weiblich;verwitwet;35;1;Lehre;arbeitend;31325;Tarif C
+maennlich;ledig;15;0;Keine;kein;0;Tarif D
+maennlich;verwitwet;86;1;Lehre;im Ruhestand;27600;Tarif D
+maennlich;ledig;11;0;Keine;kein;0;Tarif D
+weiblich;ledig;8;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;44;0;Bachelor;arbeitend;29020;Tarif C
+maennlich;verheiratet;65;0;Lehre;kein;8600;ablehnen
+maennlich;verheiratet;71;1;Bachelor;im Ruhestand;24300;Tarif D
+maennlich;ledig;16;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;78;0;Lehre;selbstaendig;91400;Tarif C
+weiblich;geschieden;67;0;Keine;im Ruhestand;26000;Tarif D
+maennlich;verheiratet;82;0;Bachelor;im Ruhestand;27100;Tarif D
+maennlich;geschieden;34;2;Promotion;angestellt;88860;Tarif B
+weiblich;verheiratet;60;1;Bachelor;selbstaendig;102700;Tarif C
+maennlich;verheiratet;53;0;Promotion;verbeamtet;76910;Tarif A
+maennlich;geschieden;66;1;Lehre;arbeitend;33770;Tarif C
+weiblich;ledig;63;0;Lehre;im Ruhestand;26800;Tarif D
+maennlich;verheiratet;46;7;Promotion;angestellt;62820;Tarif C
+maennlich;verheiratet;55;0;Lehre;kein;9600;ablehnen
+maennlich;geschieden;52;1;Bachelor;angestellt;68520;Tarif C
+maennlich;ledig;10;0;Keine;kein;0;Tarif D
+maennlich;geschieden;54;0;Lehre;selbstaendig;44400;Tarif C
+weiblich;geschieden;63;1;Bachelor;im Ruhestand;25100;Tarif D
+weiblich;ledig;9;0;Keine;kein;0;Tarif D
+maennlich;verwitwet;37;0;Lehre;kein;9500;ablehnen
+weiblich;verheiratet;50;1;Master;angestellt;93300;Tarif A
+maennlich;geschieden;40;0;Master;selbstaendig;45300;Tarif C
+weiblich;ledig;9;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;22;1;Keine;kein;8900;Tarif C
+weiblich;ledig;12;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;43;1;Lehre;verbeamtet;42820;Tarif C
+maennlich;geschieden;85;0;Master;selbstaendig;32200;Tarif C
+maennlich;geschieden;44;3;Master;angestellt;63600;Tarif C
+maennlich;verheiratet;38;0;Bachelor;angestellt;81400;Tarif B
+weiblich;geschieden;35;1;Lehre;verbeamtet;82350;Tarif B
+maennlich;geschieden;33;2;Bachelor;angestellt;54135;Tarif C
+maennlich;ledig;69;0;Bachelor;arbeitend;31965;Tarif C
+maennlich;verheiratet;36;0;Lehre;arbeitend;23160;Tarif C
+maennlich;verheiratet;71;0;Master;im Ruhestand;31600;Tarif D
+maennlich;ledig;31;0;Bachelor;angestellt;70915;Tarif B
+maennlich;geschieden;61;0;Master;selbstaendig;65800;Tarif C
+weiblich;verheiratet;25;1;Bachelor;arbeitend;26700;Tarif C
+weiblich;verheiratet;48;0;Bachelor;angestellt;96940;Tarif B
+maennlich;verwitwet;73;0;Lehre;im Ruhestand;23600;Tarif D
+maennlich;ledig;67;0;Lehre;arbeitend;36000;Tarif C
+weiblich;verheiratet;45;0;Master;arbeitend;31650;Tarif C
+weiblich;ledig;47;0;Lehre;kein;8300;ablehnen
+maennlich;ledig;25;0;Bachelor;angestellt;54300;Tarif C
+maennlich;verheiratet;30;0;Master;angestellt;37350;Tarif C
+maennlich;verwitwet;81;0;Bachelor;im Ruhestand;23400;Tarif D
+weiblich;verwitwet;34;4;Realschule;angestellt;60680;Tarif B
+weiblich;ledig;37;0;Lehre;angestellt;68850;Tarif B
+maennlich;geschieden;65;0;Master;im Ruhestand;42500;Tarif D
+weiblich;geschieden;34;1;Keine;kein;9400;ablehnen
+weiblich;verheiratet;65;0;Lehre;selbstaendig;96900;Tarif C
+maennlich;verheiratet;47;2;Bachelor;angestellt;62905;Tarif C
+weiblich;verwitwet;41;0;Lehre;kein;8700;ablehnen
+maennlich;ledig;13;0;Keine;kein;0;Tarif D
+weiblich;verwitwet;57;0;Lehre;kein;8600;ablehnen
+weiblich;verheiratet;59;0;Bachelor;angestellt;94570;Tarif A
+weiblich;verwitwet;89;0;Bachelor;im Ruhestand;26300;Tarif D
+weiblich;verwitwet;44;3;Bachelor;selbstaendig;68700;Tarif B
+maennlich;verheiratet;51;1;Promotion;angestellt;103980;Tarif A
+weiblich;ledig;26;0;Master;angestellt;52970;Tarif C
+maennlich;ledig;19;0;Abitur;kein;9700;ablehnen
+maennlich;ledig;30;0;Master;verbeamtet;70850;Tarif B
+weiblich;verheiratet;24;1;Bachelor;angestellt;38740;Tarif C
+weiblich;verheiratet;26;1;Realschule;kein;8600;Tarif C
+weiblich;verwitwet;77;1;Lehre;arbeitend;31660;Tarif C
+weiblich;geschieden;40;0;Master;angestellt;79100;Tarif B
+maennlich;verheiratet;21;0;Abitur;kein;9700;ablehnen
+weiblich;verheiratet;46;0;Lehre;kein;9400;ablehnen
+weiblich;verheiratet;74;0;Hauptschule;selbstaendig;70100;Tarif C
+weiblich;verheiratet;61;0;Lehre;kein;8900;ablehnen
+maennlich;verheiratet;32;1;Master;angestellt;88940;Tarif C
+maennlich;geschieden;60;0;Lehre;im Ruhestand;34700;Tarif D
+weiblich;geschieden;75;1;Lehre;im Ruhestand;43700;Tarif D
+weiblich;verwitwet;50;0;Bachelor;verbeamtet;89000;Tarif A
+maennlich;geschieden;69;0;Bachelor;im Ruhestand;36300;Tarif D
+weiblich;verheiratet;49;0;Abitur;arbeitend;28275;Tarif C
+weiblich;ledig;4;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;45;1;Bachelor;angestellt;60850;Tarif C
+weiblich;verheiratet;18;3;Keine;kein;0;Tarif C
+weiblich;ledig;9;1;Keine;kein;0;Tarif D
+maennlich;verheiratet;38;2;Lehre;angestellt;53030;Tarif C
+maennlich;geschieden;55;0;Lehre;angestellt;94625;Tarif C
+maennlich;ledig;8;0;Keine;kein;0;Tarif D
+weiblich;geschieden;55;0;Bachelor;angestellt;74825;Tarif A
+maennlich;verheiratet;25;0;Lehre;arbeitend;23950;Tarif C
+maennlich;ledig;10;0;Keine;kein;0;Tarif D
+maennlich;ledig;19;0;Keine;kein;8800;ablehnen
+weiblich;verwitwet;45;1;Bachelor;angestellt;83125;Tarif B
+maennlich;verheiratet;34;0;Bachelor;angestellt;112630;Tarif B
+maennlich;ledig;24;0;Bachelor;selbstaendig;61900;Tarif C
+weiblich;verheiratet;68;0;Bachelor;im Ruhestand;38800;Tarif D
+maennlich;verheiratet;78;0;Realschule;im Ruhestand;27200;Tarif D
+weiblich;ledig;48;0;Bachelor;angestellt;78340;Tarif B
+weiblich;verheiratet;39;0;Lehre;angestellt;92050;Tarif B
+weiblich;verheiratet;60;0;Master;angestellt;64400;Tarif C
+maennlich;ledig;32;0;Bachelor;angestellt;75720;Tarif B
+maennlich;ledig;22;0;Abitur;kein;9200;ablehnen
+weiblich;verheiratet;62;1;Bachelor;im Ruhestand;29700;Tarif D
+maennlich;ledig;56;0;Lehre;angestellt;66500;Tarif C
+maennlich;verwitwet;41;1;Lehre;selbstaendig;92600;Tarif B
+maennlich;ledig;25;0;Hauptschule;selbstaendig;60500;Tarif C
+weiblich;ledig;26;0;Bachelor;arbeitend;24020;Tarif C
+maennlich;ledig;88;0;Bachelor;im Ruhestand;34600;Tarif D
+weiblich;geschieden;42;3;Master;verbeamtet;76260;Tarif B
+weiblich;verheiratet;39;2;Lehre;angestellt;63575;Tarif C
+maennlich;ledig;14;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;21;0;Lehre;selbstaendig;32700;Tarif C
+weiblich;ledig;50;0;Lehre;arbeitend;27450;Tarif C
+maennlich;ledig;28;0;Keine;arbeitend;28240;Tarif C
+weiblich;verheiratet;23;0;Abitur;kein;9100;ablehnen
+weiblich;verheiratet;66;0;Lehre;selbstaendig;33400;Tarif C
+maennlich;geschieden;58;0;Lehre;selbstaendig;59600;Tarif C
+maennlich;ledig;19;0;Hauptschule;kein;9600;ablehnen
+weiblich;ledig;13;0;Keine;kein;0;Tarif D
+maennlich;geschieden;33;0;Bachelor;angestellt;62025;Tarif C
+maennlich;verheiratet;54;1;Bachelor;angestellt;76110;Tarif A
+weiblich;verwitwet;79;0;Lehre;im Ruhestand;45800;Tarif D
+maennlich;geschieden;33;3;Realschule;selbstaendig;71400;Tarif B
+maennlich;geschieden;37;2;Bachelor;verbeamtet;100745;Tarif B
+maennlich;geschieden;65;0;Lehre;im Ruhestand;28300;Tarif D
+maennlich;ledig;44;0;Bachelor;angestellt;63600;Tarif C
+maennlich;ledig;15;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;59;0;Bachelor;angestellt;94075;Tarif A
+maennlich;verheiratet;70;0;Lehre;arbeitend;31350;Tarif C
+weiblich;geschieden;50;0;Master;angestellt;51000;Tarif C
+weiblich;verwitwet;39;2;Abitur;kein;9300;ablehnen
+maennlich;verheiratet;33;1;Bachelor;angestellt;49410;Tarif C
+weiblich;verheiratet;75;0;Bachelor;arbeitend;27350;Tarif C
+maennlich;verwitwet;77;1;Lehre;arbeitend;35315;Tarif C
+weiblich;ledig;45;0;Bachelor;selbstaendig;60000;Tarif C
+maennlich;ledig;46;0;Lehre;arbeitend;28980;Tarif C
+maennlich;geschieden;55;1;Realschule;kein;8800;ablehnen
+maennlich;verheiratet;75;0;Master;selbstaendig;32800;Tarif C
+maennlich;geschieden;35;1;Lehre;selbstaendig;74000;Tarif B
+maennlich;ledig;5;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;44;0;Lehre;selbstaendig;61400;Tarif B
+maennlich;geschieden;60;1;Lehre;selbstaendig;86300;Tarif C
+maennlich;ledig;15;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;69;0;Master;angestellt;102750;Tarif C
+weiblich;verheiratet;50;0;Keine;arbeitend;30050;Tarif C
+weiblich;verheiratet;82;0;Lehre;arbeitend;36790;Tarif C
+maennlich;verheiratet;39;2;Bachelor;angestellt;48935;Tarif C
+maennlich;verheiratet;56;0;Lehre;arbeitend;31160;Tarif C
+maennlich;verheiratet;51;0;Lehre;kein;8900;ablehnen
+weiblich;ledig;24;0;Lehre;kein;9300;ablehnen
+weiblich;verheiratet;51;0;Lehre;kein;9200;ablehnen
+maennlich;geschieden;45;0;Master;angestellt;78725;Tarif A
+weiblich;verheiratet;31;2;Bachelor;kein;8200;Tarif C
+maennlich;ledig;21;0;Abitur;kein;9800;ablehnen
+weiblich;ledig;26;1;Bachelor;angestellt;67030;Tarif B
+weiblich;ledig;30;0;Bachelor;selbstaendig;91700;Tarif B
+maennlich;verwitwet;37;2;Bachelor;angestellt;66780;Tarif B
+maennlich;geschieden;61;0;Lehre;kein;8700;ablehnen
+maennlich;geschieden;43;0;Bachelor;angestellt;114705;Tarif B
+weiblich;verheiratet;70;0;Bachelor;selbstaendig;59600;Tarif C
+weiblich;ledig;48;0;Lehre;kein;9200;ablehnen
+weiblich;ledig;51;0;Lehre;kein;8900;ablehnen
+maennlich;verwitwet;67;0;Lehre;im Ruhestand;34800;Tarif D
+maennlich;verwitwet;55;0;Bachelor;arbeitend;32350;Tarif C
+maennlich;geschieden;56;1;Bachelor;angestellt;81360;Tarif C
+maennlich;verwitwet;76;1;Lehre;im Ruhestand;24500;Tarif D
+maennlich;verheiratet;68;0;Lehre;im Ruhestand;36700;Tarif D
+weiblich;ledig;11;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;48;1;Bachelor;verbeamtet;85480;Tarif C
+maennlich;verheiratet;21;0;Bachelor;selbstaendig;39400;Tarif C
+maennlich;verheiratet;40;2;Bachelor;angestellt;78400;Tarif C
+weiblich;geschieden;69;0;Abitur;im Ruhestand;26800;Tarif D
+maennlich;geschieden;54;1;Bachelor;kein;8600;ablehnen
+maennlich;verheiratet;66;1;Lehre;im Ruhestand;31200;Tarif D
+maennlich;verwitwet;67;0;Lehre;arbeitend;25420;Tarif C
+weiblich;ledig;33;0;Lehre;verbeamtet;47345;Tarif C
+weiblich;verwitwet;45;0;Lehre;angestellt;65250;Tarif B
+maennlich;ledig;26;0;Bachelor;verbeamtet;72710;Tarif B
+maennlich;ledig;22;0;Lehre;verbeamtet;64400;Tarif C
+maennlich;geschieden;61;0;Realschule;kein;8500;ablehnen
+weiblich;ledig;26;0;Lehre;arbeitend;28710;Tarif C
+maennlich;verwitwet;30;0;Lehre;arbeitend;24450;Tarif C
+maennlich;ledig;27;0;Bachelor;selbstaendig;63100;Tarif C
+weiblich;verheiratet;56;0;Realschule;angestellt;94760;Tarif A
+maennlich;ledig;23;0;Bachelor;verbeamtet;70025;Tarif B
+maennlich;verheiratet;64;0;Bachelor;angestellt;61500;Tarif C
+maennlich;geschieden;66;0;Bachelor;angestellt;91560;Tarif C
+weiblich;ledig;74;0;Abitur;selbstaendig;65500;Tarif C
+weiblich;verheiratet;39;2;Abitur;angestellt;80600;Tarif C
+maennlich;ledig;19;0;Keine;kein;9100;ablehnen
+weiblich;ledig;28;0;Lehre;kein;8700;ablehnen
+weiblich;geschieden;34;3;Keine;verbeamtet;53660;Tarif C
+weiblich;geschieden;40;3;Abitur;selbstaendig;95000;Tarif B
+weiblich;ledig;9;0;Keine;kein;0;Tarif D
+weiblich;geschieden;31;0;Master;verbeamtet;49825;Tarif C
+weiblich;verheiratet;48;1;Bachelor;angestellt;54480;Tarif C
+weiblich;ledig;19;1;Abitur;selbstaendig;105300;Tarif B
+maennlich;verheiratet;52;0;Lehre;arbeitend;27600;Tarif C
+maennlich;verheiratet;41;0;Master;selbstaendig;93100;Tarif B
+weiblich;verheiratet;21;0;Bachelor;angestellt;50385;Tarif C
+weiblich;verwitwet;43;0;Bachelor;angestellt;97695;Tarif B
+maennlich;geschieden;30;1;Master;angestellt;64200;Tarif C
+weiblich;verwitwet;69;0;Lehre;im Ruhestand;38700;Tarif D
+maennlich;verwitwet;47;3;Lehre;kein;8400;ablehnen
+maennlich;verheiratet;33;2;Bachelor;kein;9200;Tarif C
+weiblich;ledig;19;0;Keine;kein;8500;ablehnen
+maennlich;verheiratet;59;0;Lehre;kein;8700;ablehnen
+weiblich;geschieden;69;1;Bachelor;im Ruhestand;39000;Tarif D
+weiblich;verheiratet;50;0;Lehre;verbeamtet;82750;Tarif A
+maennlich;verheiratet;43;1;Bachelor;angestellt;121480;Tarif C
+weiblich;ledig;20;0;Abitur;kein;9500;ablehnen
+weiblich;geschieden;45;0;Realschule;angestellt;82800;Tarif B
+weiblich;ledig;22;0;Abitur;arbeitend;26960;Tarif C
+weiblich;geschieden;49;0;Lehre;selbstaendig;73500;Tarif B
+maennlich;ledig;13;0;Keine;kein;0;Tarif D
+maennlich;ledig;34;0;Promotion;selbstaendig;42100;Tarif C
+weiblich;verheiratet;21;1;Bachelor;verbeamtet;90770;Tarif C
+weiblich;verheiratet;24;1;Bachelor;angestellt;65300;Tarif C
+weiblich;verwitwet;80;0;Hauptschule;im Ruhestand;32600;Tarif D
+maennlich;geschieden;42;1;Bachelor;angestellt;54470;Tarif C
+maennlich;geschieden;75;0;Lehre;arbeitend;24325;Tarif C
+maennlich;verheiratet;47;2;Lehre;angestellt;120685;Tarif C
+weiblich;geschieden;48;0;Lehre;arbeitend;27200;Tarif C
+weiblich;geschieden;44;0;Master;angestellt;93980;Tarif B
+weiblich;ledig;7;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;52;0;Bachelor;angestellt;72460;Tarif C
+maennlich;ledig;11;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;70;0;Lehre;selbstaendig;62900;Tarif C
+maennlich;ledig;26;0;Master;angestellt;53170;Tarif C
+maennlich;ledig;26;1;Master;angestellt;68990;Tarif B
+maennlich;ledig;22;0;Lehre;selbstaendig;106500;Tarif B
+weiblich;verheiratet;69;0;Abitur;im Ruhestand;22400;Tarif D
+weiblich;verwitwet;42;0;Hauptschule;arbeitend;29970;Tarif C
+maennlich;ledig;26;0;Promotion;verbeamtet;88500;Tarif B
+maennlich;ledig;42;0;Bachelor;angestellt;95110;Tarif B
+weiblich;geschieden;34;2;Lehre;arbeitend;21770;Tarif C
+maennlich;verheiratet;45;3;Master;angestellt;79650;Tarif C
+weiblich;ledig;10;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;43;3;Bachelor;kein;9100;Tarif C
+weiblich;verheiratet;26;1;Bachelor;verbeamtet;103590;Tarif C
+maennlich;verheiratet;53;0;Master;angestellt;93255;Tarif A
+weiblich;ledig;11;0;Keine;kein;0;Tarif D
+weiblich;geschieden;76;0;Bachelor;im Ruhestand;36000;Tarif D
+weiblich;ledig;28;0;Lehre;kein;9200;ablehnen
+weiblich;verheiratet;41;0;Realschule;arbeitend;30590;Tarif C
+weiblich;verheiratet;19;0;Hauptschule;kein;8500;ablehnen
+maennlich;ledig;20;0;Bachelor;angestellt;59400;Tarif C
+maennlich;geschieden;26;2;Promotion;selbstaendig;54900;Tarif C
+weiblich;verwitwet;41;1;Lehre;verbeamtet;75275;Tarif B
+maennlich;geschieden;34;2;Lehre;arbeitend;26350;Tarif C
+maennlich;ledig;16;0;Keine;kein;0;Tarif D
+weiblich;ledig;16;0;Keine;kein;0;Tarif D
+weiblich;ledig;18;0;Keine;kein;0;ablehnen
+weiblich;verheiratet;66;1;Master;im Ruhestand;42400;Tarif D
+maennlich;verheiratet;51;1;Lehre;arbeitend;24915;Tarif C
+maennlich;verwitwet;50;0;Bachelor;arbeitend;33700;Tarif C
+weiblich;ledig;19;0;Keine;selbstaendig;68600;Tarif B
+weiblich;ledig;40;0;Bachelor;selbstaendig;71500;Tarif B
+maennlich;ledig;17;0;Keine;kein;0;Tarif D
+weiblich;ledig;12;0;Keine;kein;0;Tarif D
+maennlich;verheiratet;41;0;Bachelor;angestellt;73870;Tarif B
+maennlich;ledig;32;0;Master;arbeitend;28420;Tarif C
+weiblich;verheiratet;18;0;Keine;arbeitend;0;ablehnen
+weiblich;verheiratet;43;2;Abitur;kein;8600;Tarif C
+maennlich;verheiratet;40;2;Lehre;arbeitend;24700;Tarif C
+maennlich;verheiratet;22;0;Lehre;kein;8800;ablehnen
+weiblich;verheiratet;24;1;Bachelor;selbstaendig;52500;Tarif C
+weiblich;geschieden;48;1;Hauptschule;angestellt;34440;Tarif C
+maennlich;ledig;15;0;Keine;kein;0;Tarif D
+maennlich;ledig;26;0;Bachelor;angestellt;63970;Tarif C
+weiblich;ledig;11;0;Keine;kein;0;Tarif D
+maennlich;ledig;58;0;Bachelor;verbeamtet;82030;Tarif C
+maennlich;verheiratet;53;0;Lehre;selbstaendig;67100;Tarif C
+weiblich;geschieden;61;0;Realschule;selbstaendig;75800;Tarif C
+maennlich;geschieden;27;0;Master;kein;9200;ablehnen
+maennlich;ledig;38;0;Hauptschule;selbstaendig;73400;Tarif B
+maennlich;verheiratet;32;1;Bachelor;kein;9500;Tarif C
+maennlich;verheiratet;31;0;Master;angestellt;92660;Tarif B
+weiblich;verheiratet;55;1;Realschule;arbeitend;32750;Tarif C
+weiblich;verheiratet;69;0;Bachelor;selbstaendig;36200;Tarif C
+weiblich;ledig;46;1;Lehre;arbeitend;30110;Tarif C
+weiblich;verheiratet;69;0;Lehre;im Ruhestand;26100;Tarif D
+weiblich;verwitwet;44;3;Abitur;kein;9100;ablehnen
+maennlich;verheiratet;35;2;Bachelor;angestellt;71775;Tarif C
+maennlich;geschieden;73;0;Bachelor;selbstaendig;71800;Tarif C
+weiblich;ledig;19;0;Realschule;kein;8600;ablehnen
+weiblich;verwitwet;52;0;Bachelor;selbstaendig;66400;Tarif C
+weiblich;verheiratet;33;2;Lehre;kein;9100;Tarif C
+maennlich;verheiratet;26;1;Bachelor;selbstaendig;106400;Tarif C
+weiblich;verheiratet;22;3;Master;angestellt;63090;Tarif C
+weiblich;ledig;14;0;Keine;kein;0;Tarif D
+weiblich;ledig;58;0;Master;angestellt;82530;Tarif A
+maennlich;ledig;25;1;Bachelor;verbeamtet;66675;Tarif B
+maennlich;verheiratet;33;1;Bachelor;selbstaendig;65900;Tarif C
+maennlich;verheiratet;75;1;Bachelor;verbeamtet;83350;Tarif C
+weiblich;ledig;11;0;Keine;kein;0;Tarif D
+maennlich;ledig;23;0;Lehre;kein;9500;ablehnen
+maennlich;verwitwet;51;0;Bachelor;kein;9800;ablehnen
+maennlich;geschieden;68;1;Lehre;im Ruhestand;41000;Tarif D
+maennlich;geschieden;58;1;Master;kein;9700;ablehnen
+weiblich;verwitwet;41;1;Bachelor;selbstaendig;60300;Tarif B
+maennlich;ledig;8;0;Keine;kein;0;Tarif D
+weiblich;ledig;2;0;Keine;kein;0;Tarif D
+weiblich;verheiratet;29;1;Lehre;selbstaendig;103200;Tarif C
+maennlich;ledig;25;0;Abitur;arbeitend;25475;Tarif C
+maennlich;verheiratet;31;2;Master;arbeitend;23260;Tarif C
+maennlich;verwitwet;30;2;Bachelor;angestellt;98900;Tarif B
+weiblich;verheiratet;65;0;Bachelor;angestellt;54875;Tarif C
+maennlich;verheiratet;58;1;Lehre;kein;8900;ablehnen
+maennlich;ledig;42;0;Master;angestellt;117600;Tarif B
+maennlich;verheiratet;46;3;Lehre;angestellt;95000;Tarif C
+weiblich;ledig;47;0;Bachelor;verbeamtet;76825;Tarif B
+weiblich;ledig;15;0;Keine;kein;0;Tarif D
+maennlich;geschieden;50;0;Bachelor;kein;9200;ablehnen
+maennlich;verheiratet;59;0;Lehre;arbeitend;29920;Tarif C
+maennlich;ledig;20;0;Abitur;arbeitend;30600;Tarif C
+weiblich;ledig;39;0;Realschule;arbeitend;25235;Tarif C
+weiblich;ledig;50;0;Lehre;angestellt;58800;Tarif C
+weiblich;verwitwet;91;1;Lehre;selbstaendig;92800;Tarif C
+maennlich;verheiratet;39;1;Lehre;angestellt;110075;Tarif C
+maennlich;verheiratet;89;0;Bachelor;selbstaendig;59200;Tarif C
+weiblich;verheiratet;57;1;Bachelor;verbeamtet;93510;Tarif A
+weiblich;verheiratet;26;2;Master;verbeamtet;80720;Tarif C
+weiblich;ledig;82;0;Bachelor;im Ruhestand;25300;Tarif D
+weiblich;geschieden;55;0;Lehre;angestellt;49000;Tarif C
+weiblich;verwitwet;80;0;Abitur;im Ruhestand;30000;Tarif D
